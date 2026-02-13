@@ -23,11 +23,11 @@ Conceitos a serem praticados:
 
 Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fundamentos dos Design Patterns](https://lp.balta.io/ebook-fundamentos-design-patterns).
 
-### Recompensas
+### Desafios
 
 | Padrões Criacionais                                                                                  | Padrões Estruturais                                                                     | Padrões Comportamentais                                                                                             |
 | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [01 - Abstract Factory](https://github.com/balta-io/balta-desafio-carnacode-2026_2-abstract-factory) | [06 - Adapter](https://github.com/balta-io/balta-desafio-carnacode-2026_6-adapter)      | [13 - Chain Of Responsibility](https://github.com/balta-io/balta-desafio-carnacode-2026_13-chain-of-responsability) |
+| [01 - Abstract Factory](https://github.com/balta-io/balta-desafio-carnacode-2026_2-abstract-factory) | [06 - Adapter](https://github.com/balta-io/balta-desafio-carnacode-2026_6-adapter)      | [13 - Chain of Responsibility](https://github.com/balta-io/balta-desafio-carnacode-2026_13-chain-of-responsability) |
 | [02 - Builder](https://github.com/balta-io/balta-desafio-carnacode-2026_2-builder)                   | [07 - Bridge](https://github.com/balta-io/balta-desafio-carnacode-2026_7-bridge)        | [14 - Command](https://github.com/balta-io/balta-desafio-carnacode-2026_14-command)                                 |
 | [03 - Factory Method](https://github.com/balta-io/balta-desafio-carnacode-2026_3-factory-method)     | [08 - Composite](https://github.com/balta-io/balta-desafio-carnacode-2026_8-composite)  | [15 - Interpreter](https://github.com/balta-io/balta-desafio-carnacode-2026_15-interpreter)                         |
 | [04 - Prototype](https://github.com/balta-io/balta-desafio-carnacode-2026_4-prototype)               | [09 - Decorator](https://github.com/balta-io/balta-desafio-carnacode-2026_9-decorator)  | [16 - Iterator](https://github.com/balta-io/balta-desafio-carnacode-2026_16-iterator)                               |
