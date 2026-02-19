@@ -1,3 +1,6 @@
 [submodule "desafios/01-abstract-factory"]
 	path = desafios/01-abstract-factory
 	url = https://github.com/renebentes/balta-desafio-carnacode-2026_1-abstract-factory
+[submodule "desafios/02-builder"]
+	path = desafios/02-builder
+	url = https://github.com/renebentes/balta-desafio-carnacode-2026_2-builder

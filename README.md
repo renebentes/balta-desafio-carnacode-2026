@@ -48,3 +48,4 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 ### Meus Projetos
 
 - [Desafio 01 - Abstract Factory](https://github.com/renebentes/balta-desafio-carnacode-2026_1-abstract-factory)
+- [Desafio 02 - Builder](https://github.com/renebentes/balta-desafio-carnacode-2026_2-builder)
