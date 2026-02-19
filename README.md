@@ -41,8 +41,9 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 
 ### Minhas Recompensas
 
-|     |     |
-| --- | --- |
+|||
+|---|---|
+|![Desafio 01 - Abstract Factory](https://baltaio.blob.core.windows.net/static/images/v4/challenges/carnacode-2026/rewards/abstract-factory/image.png)||
 
 ### Meus Projetos
 
