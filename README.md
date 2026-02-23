@@ -39,6 +39,10 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 |                                                                                                      |                                                                                         | [22 - Visitor](https://github.com/balta-io/balta-desafio-carnacode-2026_22-template-method)                         |
 |                                                                                                      |                                                                                         | [20 - visitor](https://github.com/balta-io/balta-desafio-carnacode-2026_23-visitor)                                 |
 
+### Recompensas
+
+![Recompensas Desafio CarnaCode 2026](https://github.com/user-attachments/assets/9f65428f-cfbd-4c40-b94a-47a1b670415a)
+
 ### Minhas Recompensas
 
 |||
